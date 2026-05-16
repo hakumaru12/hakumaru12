@@ -28,11 +28,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-<div align="center"> 
+<div align="center">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Analytics
 
 
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
@@ -45,7 +46,7 @@
   </picture>
 </p>
 
-<p align="left" >
+<p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
@@ -53,7 +54,7 @@
 	</picture>
 </p>　
 
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
