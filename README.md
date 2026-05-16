@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey, I'm Hakumaru12
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Linux+Enthusiast+%F0%9F%90%A7;Keyboard+Builder+%E2%8C%A8%EF%B8%8F;Hardware+Tinkerer+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Linux+Enthusiast+%F0%9F%90%A7;Keyboard+Builder+%E2%8C%A8%EF%B8%8F+Hardware+Tinkerer+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
