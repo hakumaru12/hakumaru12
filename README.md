@@ -10,9 +10,6 @@
 <div align="center">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Analytics
-
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="700" />
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="700" />
@@ -23,23 +20,16 @@
     <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="700" />
     <img alt=""    src="https://raw.githubusercontent.com/hakumaru12/hakumaru12/output-3d-contrib/day.svg" />
   </picture>
-</p>
-
-<p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="1000" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="1000" />
 	  <img alt=""    src="https://raw.githubusercontent.com/hakumaru12/hakumaru12/output-3d-contrib/day.svg" />
 	</picture>
-</p>　
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="700" />
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="700" />
   <img alt="" src="https://raw.githubusercontent.com/hakumaru12/hakumaru12/output-3d-contrib/day.svg" />
   </picture>
-</p>
 
 </div>
 
